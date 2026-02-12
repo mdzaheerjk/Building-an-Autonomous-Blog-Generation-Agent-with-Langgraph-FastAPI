@@ -8,5 +8,12 @@ Build a robust content generation engine that automates blog creation from topic
        alt="Project Preview"
        width="600" />
 </p>
+<div align="center">
+
+## 🏗️ Architecture Diagram
+
+<img src="https://raw.githubusercontent.com/mdzaheerjk/Building-Stateful-Agentic-AI-with-LangGraph-and-Llama-3/main/images/Gemini_Generated_Image_qt7bbgqt7bbgqt7b_DMeYfah.png" alt="Architecture Diagram"/>
+
+</div>
 
 
